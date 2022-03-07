@@ -1,6 +1,5 @@
 
 import Foundation
-import CoreVideo
 
 struct QuizBrain {
     let quiz = [
