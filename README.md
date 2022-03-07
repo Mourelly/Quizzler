@@ -1,6 +1,15 @@
-# Quizzler
-iOS application with MVC pattern and OOP. 
+What i did:
 
+I created a trivia quiz app with score. 
+
+What i used:
+
+The Model-View-Controller or MVC pattern for app development
+Swift Structures, Classes and Objects
+Object Oriented Programming pattern
+Refactoring code and organising
+
+Screenshots:
 <img width="347" alt="Screenshot 2022-03-07 at 18 56 24" src="https://user-images.githubusercontent.com/70465614/157069884-b909e5a2-a2e8-4412-937c-a89a8e0291b5.png">
 
 <img width="363" alt="Screenshot 2022-03-07 at 18 56 52" src="https://user-images.githubusercontent.com/70465614/157069890-17b7044b-7219-409c-a061-6b8a1e72bcfa.png">
