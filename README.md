@@ -4,13 +4,13 @@ I created a trivia quiz app with score.
 
 What i used:
 
-The Model-View-Controller or MVC pattern for app development
+*The Model-View-Controller or MVC pattern for app development
 
-Swift Structures, Classes and Objects
+*Swift Structures, Classes and Objects
 
-Object Oriented Programming pattern
+*Object Oriented Programming pattern
 
-Refactoring code and organising
+*Refactoring code and organising
 
 Screenshots:
 
